@@ -5,7 +5,7 @@ What is the largest prime factor of the number 600851475143 ?
 http://projecteuler.net/problem=3
 */
 /*
-“600851475143” sayısının en büyük asal çarpanı kaçtır?
+“600851475143” sayısının en büyük asal çarpanı kaçtır? 
 http://fatihsultan.wordpress.com/2006/09/15/euler-projesi-1-2-3-soru/
 */
 /*
